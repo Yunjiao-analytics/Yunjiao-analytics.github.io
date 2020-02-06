@@ -1,10 +1,10 @@
-## Portfolio
+##  Project
 
 ---
 
-### Category Name 1 
+### [Analytics Design and Application]  
 
-[Project 1 Title](/sample_page)
+[[New Flavor to Launch]: We combined TRUF, discrete choice analysis in this project to recomment a new flavor put into the market](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
