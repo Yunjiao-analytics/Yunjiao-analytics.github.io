@@ -1,6 +1,6 @@
 ## Analytics Design to Recommend Flavors to Launch / Shell Out for Greek Yogurt Trend, Group Project
 
-**Project description:** To briefly summarize, in this case, We are conducting analytics to provide input or recommendations to the decision of which flavors to launch next. Assume for this analysis that the private label recently launched six flavors--Blueberry, Honey, Peach, Plain, Strawberry, and Vanilla. We will be focusing on providing analytics to help determine what the next flavors to launch should be. We now having access to the data from a survey that captures information about consumers’ flavor preferences.
+**Project description:** To briefly summarize, in this case, we are conducting analytics to provide input or recommendations to the decision of which flavors to launch next. Assume for this analysis that the private label recently launched six flavors--Blueberry, Honey, Peach, Plain, Strawberry, and Vanilla. We will be focusing on providing analytics to help determine what the next flavors to launch should be. We now having access to the data from a survey that captures information about consumers’ flavor preferences.
 <img src="images/greek-style-yogurt-difference-1140x563.jpg?raw=true"/>
 
 ### 1. Understanding & Cleaning Data
