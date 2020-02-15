@@ -1,4 +1,4 @@
-## Analytics Design to Recommend Flavors to Launch / Shell Out for Greek Yogurt Trend 
+## Analytics Design to Recommend Flavors to Launch / Shell Out for Greek Yogurt Trend, Group Project
 
 **Project description:** To briefly summarize, in this case I am conducting analytics to provide input or recommendations to the decision of which flavors to launch next. Assume for this analysis that the private label recently launched six flavors--Blueberry, Honey, Peach, Plain, Strawberry, and Vanilla. 
 
@@ -7,7 +7,7 @@
 After extracting and merging data using SQL, two issues were found   
        
        #1#  Checking Representativeness of Sample
-“The survey was only sent to individuals that had previously purchased Greek Yogurt and were screened during the survey based on a question about purchase of Greek Yogurt. Thus, the sample is not a general sample of Wegmans customers, but instead a sample of current buyers of Greek Yogurt. “ Although this is the most relevant population for this survey, we need to check whether the survey represents the population on gender, income, family size, preference for yogurt and so on. 
+“The survey was only sent to individuals that had previously purchased Greek Yogurt and were screened during the survey based on a question about purchase of Greek Yogurt. Thus, the sample is not a general sample of Wegmans customers, but instead a sample of current buyers of Greek Yogurt. “ Although this is the most relevant population for this survey, we still need to check whether the survey represents the overall population on gender, income, family size, preference for yogurt and so on, which would influence all the analysis in the following. 
 
        #2#  Quality of Response				
 We re-examined the survey data and we deleted the 
