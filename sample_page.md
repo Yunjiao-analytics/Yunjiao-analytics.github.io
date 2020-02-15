@@ -1,7 +1,7 @@
 ## Analytics Design to Recommend Flavors to Launch / Shell Out for Greek Yogurt Trend, Group Project
 
 **Project description:** To briefly summarize, in this case, We are conducting analytics to provide input or recommendations to the decision of which flavors to launch next. Assume for this analysis that the private label recently launched six flavors--Blueberry, Honey, Peach, Plain, Strawberry, and Vanilla. We will be focusing on providing analytics to help determine what the next flavors to launch should be. We now having access to the data from a survey that captures information about consumers’ flavor preferences.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/greek-style-yogurt-difference-1140x563.jpg?raw=true"/>
 
 ### 1. Understanding & Cleaning Data
 
@@ -12,7 +12,7 @@ After extracting and merging data using SQL, two issues were found
 
        #2#  Quality of Response
        We re-examined the survey data and we deleted the 1.2.3.
-1.respondents who took too long to finish the data (above average)
+1.respondents who took too long to finish the data (above average response time)
 2.respondents answered the survey not in the time we sent out the survey(some profiles may be from the pretest)
 3.respondents who have not finished the response(incomplete answers showing NA in the database)
 
@@ -25,13 +25,15 @@ Analytic goal: Decide which flavors to launch next, these include current flavor
 Limitation of Domain: The purpose of this analysis is to understand category behaviors in the Greek Yogurt subcategory. This subcategory at the time of this survey was growing dramatically. Understanding different segments, usage situations, attribute importance, and brand perceptions is critical to determining the best approach to merchandising this growing category.	
 ```
 ```javascript
-Analytics Tool: descriptive analysis to identify the sales of yogurt in seperate categories; conjoint analysis with discrete choice model to simulate market scenarios; predictive analysis using TURF to predict the best flavor to gain market share
+Analytics Tool: descriptive analysis to identify the sales of yogurt in seperate categories; 
+conjoint analysis with discrete choice model to simulate market scenarios; 
+predictive analysis using TURF to predict the best flavor to gain market share
 ```
 ```javascript
 Analytics Outcome: Key metrics include market share and profitablity
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
+### 3. R code (describe how we approach) 
 
 ```javascript
 if (isAwesome){
@@ -39,7 +41,7 @@ if (isAwesome){
 }
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. PowerPoint
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
