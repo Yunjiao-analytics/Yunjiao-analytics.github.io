@@ -51,7 +51,7 @@ if (isAwesome){
 }
 ```
 
-### 4. PowerPoint
+### 4. PowerPoint (/pptyogurt.pdf)
 
 <img src="images/Screen Shot 2020-02-15 at 02.22.00.png?raw=true"/>
 
