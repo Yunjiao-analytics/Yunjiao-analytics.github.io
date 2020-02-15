@@ -1,10 +1,18 @@
-## This can be your internal website page / project page
+## Analytics Design to Recommend Flavors to Launch / SHELL OUT FOR GREEK YOGURT TREND 
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** To briefly summarize, in this case I am conducting analytics to provide input or recommendations to the decision of which flavors to launch next. Assume for this analysis that the private label recently launched six flavors--Blueberry, Honey, Peach, Plain, Strawberry, and Vanilla. 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Understanding & Cleaning Data
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+After extracting and merging data using SQL, two issues were found   
+        #1# sampling representitive
+“The survey was only sent to individuals that had previously purchased Greek Yogurt and were screened during the survey based on a question about purchase of Greek Yogurt. Thus, the sample is not a general sample of Wegmans customers, but instead a sample of current buyers of Greek Yogurt. Wegmans considered this the most relevant population for this survey. “
+
+        #2# quality of response				
+We re-examined the survey data and we deleted the 
+1.respondents who took too long to finish the data
+2.respondents answered the survey not in the time we sent out the survey(may be from the pretest)
+3.respondents who have not finished the response(incomplete)
 
 ```javascript
 if (isAwesome){
