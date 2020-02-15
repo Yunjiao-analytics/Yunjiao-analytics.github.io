@@ -12,25 +12,29 @@ After extracting and merging data using SQL, two issues were found
 
        #2#  Quality of Response
        We re-examined the survey data and we deleted the 1.2.3.
-1.respondents who took too long to finish the data (above average response time)
-2.respondents answered the survey not in the time we sent out the survey(some profiles may be from the pretest)
-3.respondents who have not finished the response(incomplete answers showing NA in the database)
+       1.respondents who took too long to finish the data (above average response time
+       2.respondents answered the survey not in the time we sent out the survey(some profiles may be from the pretest
+       3.respondents who have not finished the response(incomplete answers showing NA in the database)
 
 ### 2. Refine the Measurement Goal
 
 ```javascript
-Analytic goal: Decide which flavors to launch next, these include current flavors (Black Cherry, Blueberry, Honey, Lemon, Mango, Peach, Plain, Raspberry, Strawberry, and Vanilla) and new flavors (Almond, Banana, Caramel, Chai, Chocolate, Cinnamon, Coconut, Key Lime Pie, Maple, Pineapple, Pomegranate, Strawberry Banana, and Vanilla Banana)  
+Analytic goal: 
+Decide which flavors to launch next, include current flavors (Black Cherry, Blueberry, Honey, Lemon, Mango, Peach, Plain, Raspberry, Strawberry, and Vanilla) and new flavors (Almond, Banana, Caramel, Chai, Chocolate, Cinnamon, Coconut, Key Lime Pie, Maple, Pineapple, Pomegranate, Strawberry Banana, and Vanilla Banana)  
 ```
 ```javascript
-Limitation of Domain: The purpose of this analysis is to understand category behaviors in the Greek Yogurt subcategory. This subcategory at the time of this survey was growing dramatically. Understanding different segments, usage situations, attribute importance, and brand perceptions is critical to determining the best approach to merchandising this growing category.	
+Limitation of Domain: 
+The purpose of this analysis is to understand category behaviors in the Greek Yogurt subcategory. This subcategory at the time of this survey was growing dramatically. Understanding different segments, usage situations, attribute importance, and brand perceptions is critical to determining the best approach to merchandising this growing category.	
 ```
 ```javascript
-Analytics Tool: descriptive analysis to identify the sales of yogurt in seperate categories; 
+Analytics Tool: 
+Descriptive analysis to identify the sales of yogurt in seperate categories; 
 conjoint analysis with discrete choice model to simulate market scenarios; 
 predictive analysis using TURF to predict the best flavor to gain market share
 ```
 ```javascript
-Analytics Outcome: Key metrics include market share and profitablity
+Analytics Outcome: 
+Key metrics include market share and profitablity
 ```
 
 ### 3. R code (describe how we approach) 
