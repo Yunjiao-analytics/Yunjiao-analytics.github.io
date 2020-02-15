@@ -47,7 +47,7 @@ if (isAwesome){
 
 ### 4. PowerPoint
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screen Shot 2020-02-15 at 02.22.00.png?raw=true"/>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
