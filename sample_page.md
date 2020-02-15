@@ -20,12 +20,15 @@ After extracting and merging data using SQL, two issues were found
 ```javascript
 Analytic goal: Decide which flavors to launch next, these include current flavors (Black Cherry, Blueberry, Honey, Lemon, Mango, Peach, Plain, Raspberry, Strawberry, and Vanilla) and new flavors (Almond, Banana, Caramel, Chai, Chocolate, Cinnamon, Coconut, Key Lime Pie, Maple, Pineapple, Pomegranate, Strawberry Banana, and Vanilla Banana)  
 ```
-
+```javascript
 Limited in our domain: The purpose of this analysis is to understand category behaviors in the Greek Yogurt subcategory. This subcategory at the time of this survey was growing dramatically. Understanding different segments, usage situations, attribute importance, and brand perceptions is critical to determining the best approach to merchandising this growing category.	
-
+```
+```javascript
 Analytics tool: descriptive analysis to identify the sales of yogurt in seperate categories; conjoint analysis with discrete choice model to simulate market scenarios; predictive analysis using TURF to predict the best flavor to gain market share
-
+```
+```javascript
 Analytics outcome: Key metrics include market share and profitablity
+```
 
 ### 2. Assess assumptions on which statistical inference will be based
 
