@@ -45,7 +45,7 @@ if (isAwesome){
 }
 ```
 
-### 3. PowerPoint
+### 4. PowerPoint
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
