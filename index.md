@@ -4,7 +4,7 @@
 
 ### [Analytics Design and Application]  
 
-[[New Flavor to Launch]: We combined TRUF, discrete choice analysis in this project to recomment a new flavor put into the market](/sample_page)
+[New Flavor to Launch](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
