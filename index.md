@@ -5,7 +5,7 @@
 ### [Analytics Design and Application]  
 
 [New Flavor to Launch](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screen Shot 2020-02-15 at 02.22.00.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
