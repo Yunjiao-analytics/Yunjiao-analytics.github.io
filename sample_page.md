@@ -52,8 +52,7 @@ Key metrics include market share and profitablity
 ```
 
 ### 4. PowerPoint
-This is not a great PowerPoint to show our whole approach, because in this case we were asked to limited the PowerPoint in 5 pages to illustrate the ideas(exclude the name page & the last page of appendix). We skipped some part of our analysis and only retained the most relevant part of the whole analyzing process. Our final recommendations are 'raspberry' and 'strawberry'.   
-[Link for Detail](/pptyogurt.pdf)
+This is not a great PowerPoint to show our whole approach, because in this case we were asked to limited the PowerPoint in 5 pages to illustrate the ideas(exclude the name page & the last page of appendix). We skipped some part of our analysis and only retained the most relevant part of the whole analyzing process. Our final recommendations are 'raspberry' and 'strawberry'.  Here-->[Link for Detail](/pptyogurt.pdf)
 <img src="images/Screen Shot 2020-02-15 at 02.22.00.png?raw=true"/>
 
 ### 5. Case Take-away
