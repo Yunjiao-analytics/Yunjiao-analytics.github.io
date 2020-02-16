@@ -1,10 +1,8 @@
-##  Project
+##  Projects
 
 ---
 
-### [Analytics Design and Application]  
-
-#[New Flavor to Launch](/sample_page)
+### [Analytics Design and Application：New Flavor to Launch](/sample_page)
 <img src="images/Screen Shot 2020-02-15 at 02.22.00.png?raw=true"/>
 
 ---
