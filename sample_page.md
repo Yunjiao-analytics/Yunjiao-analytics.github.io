@@ -8,12 +8,12 @@
 After extracting and merging data using SQL, two issues were found that needed to be settled before we begin digging deep into the survey data.
 
 ```javascript       
-       #1#  Representativeness of Sample
+      - #1#  Representativeness of Sample
 ```      
 “The survey was only sent to individuals that had previously purchased Greek Yogurt and were screened during the survey based on a question about purchase of Greek Yogurt. Thus, the sample is not a general sample of Wegmans customers, but instead a sample of current buyers of Greek Yogurt. “ Although this is the most relevant population for this survey, we still need to check whether the survey represents the overall population on gender, income, family size, preference for yogurt and so on, which would influence all the analysis in the following. 
 
 ```javascript
-       #2#  Quality of Response
+      - #2#  Quality of Response
 ```
 We re-examined the survey data and we deleted the 1.2.3.
 1.respondents who took too long to finish the data (above average response time
@@ -23,24 +23,24 @@ We re-examined the survey data and we deleted the 1.2.3.
 ### 2. Refine the Measurement Goal
 
 ```javascript
-       #1#  Analytic goal 
+      - #1#  Analytic goal 
 ```
 Decide which flavors to launch next, include current flavors (Black Cherry, Blueberry, Honey, Lemon, Mango, Peach, Plain, Raspberry, Strawberry, and Vanilla) and new flavors (Almond, Banana, Caramel, Chai, Chocolate, Cinnamon, Coconut, Key Lime Pie, Maple, Pineapple, Pomegranate, Strawberry Banana, and Vanilla Banana)  
 
 ```javascript
-       #2#  Limitation of Domain 
+      - #2#  Limitation of Domain 
 ```
 The purpose of this analysis is to understand category behaviors in the Greek Yogurt subcategory. This subcategory at the time of this survey was growing dramatically. Understanding different segments, usage situations, attribute importance, and brand perceptions is critical to determining the best approach to merchandising this growing category.	
 
 ```javascript
-       #3#  Analytics Tool
+      - #3#  Analytics Tool
 ```
 Descriptive analysis to identify the sales of yogurt in seperate categories; 
 conjoint analysis with discrete choice model to simulate market scenarios; 
 predictive analysis using TURF to predict the best flavor to gain market share
 
 ```javascript
-       #4#  Analytics Outcome 
+      - #4#  Analytics Outcome 
 ```
 Key metrics include market share and profitablity
 
@@ -48,9 +48,13 @@ Key metrics include market share and profitablity
 ### 3. R code (describe how we approach) 
 
 ```javascript
-if (isAwesome){
-  return true
-}
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
 ```
 
 ### 4. PowerPoint
