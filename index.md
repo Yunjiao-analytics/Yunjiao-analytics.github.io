@@ -13,7 +13,7 @@ Key word: #Industry Analysis#  #Targeting Accuracy and Measurement#  #Marketing 
 
 ---
 ### [Analytics Design and Application：Toy Horse](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Toyhorse.png?raw=true"/>
 
 ---
 
