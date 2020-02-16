@@ -48,10 +48,7 @@ Key metrics include market share and profitablity
 ### 3. R code (describe how we approach) 
 
 ```
-<dl>
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>(/Yogurt Project.html) </em>.</dd>
-</dl>
+https://github.com/Yunjiao-analytics/Yunjiao-analytics.github.io/blob/master/Yogurt%20Project%20.html
 ```
 
 ### 4. PowerPoint
