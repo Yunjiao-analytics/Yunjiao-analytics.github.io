@@ -1,15 +1,17 @@
 ## Analytics Design to Recommend Flavors to Launch / Shell Out for Greek Yogurt Trend, Group Project
 
-**Project description:** To briefly summarize, in this case, we are conducting analytics to provide input or recommendations to the decision of which flavors to launch next. Assume for this analysis that the private label recently launched six flavors--Blueberry, Honey, Peach, Plain, Strawberry, and Vanilla. We will be focusing on providing analytics to help determine what the next flavors to launch should be. We now having access to the data from a survey that captures information about consumers’ flavor preferences.
+**Project description:** In this case, we conducted analytics to provide input or recommendations to the decision of which flavors to launch next for Wegmans private label Greek yogurt. Assume for this analysis that the private label recently launched six flavors--Blueberry, Honey, Peach, Plain, Strawberry, and Vanilla. We will be focusing on providing analytics to help determine what the next flavors to launch should be. We now having access to the data from a survey that captures information about 200 consumers’ flavor preferences, historical sales data and demographic infomation of the consumers who belong to Wegmans membership card system.
 <img src="images/greek-style-yogurt-difference-1140x563.jpg?raw=true"/>
 
 ### 1. Understanding & Cleaning Data
 
-After extracting and merging data using SQL, two issues were found   
+After extracting and merging data using SQL, two issues were found that needed to be settled before we begin digging deep into the survey data.
+
 ```javascript       
        #1#  Representativeness of Sample
 ```      
 “The survey was only sent to individuals that had previously purchased Greek Yogurt and were screened during the survey based on a question about purchase of Greek Yogurt. Thus, the sample is not a general sample of Wegmans customers, but instead a sample of current buyers of Greek Yogurt. “ Although this is the most relevant population for this survey, we still need to check whether the survey represents the overall population on gender, income, family size, preference for yogurt and so on, which would influence all the analysis in the following. 
+
 ```javascript
        #2#  Quality of Response
 ```
@@ -52,11 +54,16 @@ if (isAwesome){
 ```
 
 ### 4. PowerPoint
-[Project PowerPoint](/pptyogurt.pdf)
+This is not a great PowerPoint to show our whole approach, because in this case we were asked to limited the PowerPoint in 5 pages to illustrate the ideas(exclude the name page & the last page of appendix). We skipped some part of our analysis and only retained the most relevant part of the whole analyzing process. Our final recommendations are 'raspberry' and 'strawberry'.   
+[Link for Detail](/pptyogurt.pdf)
 <img src="images/Screen Shot 2020-02-15 at 02.22.00.png?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### 5. Case Take-away
+Our survey limited us because among the existing flavors, we already reached 98% of the population even when only considering Regular Buyers & Not Occasional buyers. This is a common problem that happens when retailors want to do the survey about a new product in its already reached customers before the new product being produced. In this case, the customers who buy the yogurt in Wegmans would only have the buy-action if they like the flavors, if not, they would not come to Wegmans and would not buy the Greek yogurt.
+```javascript
+Then, if not on reach, to find out the best flavor to launch, we think about the approaches based on market acceptance and competitive landscape, here are the 2 ways that lead us to the final recommendations(our analytics results):
+A: Try to influence switchers from regular yogurt (limit cannibalization)
+B: Try to influence switchers / Interest from direct greek yogurt competitors
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
