@@ -53,7 +53,7 @@ Key metrics include market share and profitablity
   <dd>Is something people use sometimes.</dd>
 
   <dt>Markdown in HTML</dt>
-  <dd> <em>https://github.com/Yunjiao-analytics/Yunjiao-analytics.github.io/blob/master/Yogurt%20Project%20.html</em>.</dd>
+  <dd> <em>(/Yogurt Project .html)</em>.</dd>
 </dl>
 https://github.com/Yunjiao-analytics/Yunjiao-analytics.github.io/blob/master/Yogurt%20Project%20.html
 ```
