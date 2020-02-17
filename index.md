@@ -12,7 +12,7 @@ Key word: #Industry Analysis#  #Targeting Accuracy and Measurement#  #Marketing 
 <img src="images/spotifylogo.png?raw=true"/>
 
 ---
-### [Analytics Design and Application：Toy Horse](https://yunjiao-analytics.github.io/HandsDirty-on-Data/)
+### [Analytics Design and Application：Toy Horse](/Yogurt-Project-Team8.html)
 <img src="images/Toyhorse.png?raw=true"/>
 
 ---
