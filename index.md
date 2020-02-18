@@ -9,7 +9,7 @@
 ---
 ### [Spotify Podcasters Case Competition](/pdf/SMA.pdf)
 *KEY WORDS: Industry Analysis; Targeting Accuracy and Measurement; Marketing Strategy*
-<img src="images/spotifylogo.png?raw=true"/>
+<img src="images/spotifylogo.png?raw=true"/> 
 
 ---
 ### [Analytics Design and Application：Toy Horse](/Yogurt-Project-Team8.html)
