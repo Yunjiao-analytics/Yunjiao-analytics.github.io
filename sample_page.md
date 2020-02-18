@@ -20,6 +20,7 @@ We re-examined the survey data and we deleted the 1.2.3.
 2.respondents answered the survey not in the time we sent out the survey(some profiles may be from the pretest
 3.respondents who have not finished the response(incomplete answers showing NA in the database)
 
+<img src="images/yogurtimage2.jpg?raw=true"/>
 ### 2. Refine the Measurement Goal
 
 ```
@@ -54,6 +55,7 @@ This is not a great PowerPoint to show our whole approach, because in this case 
 <img src="images/Screen Shot 2020-02-15 at 02.22.00.png?raw=true"/>
 
 ### 5. Case Take-away
+
 Our survey limited us because among the existing flavors, we already reached 98% of the population even when only considering Regular Buyers & Not Occasional buyers. This is a common problem that happens when retailors want to do the survey about a new product in its already reached customers before the new product being produced. In this case, the customers who buy the yogurt in Wegmans would only have the buy-action if they like the flavors, if not, they would not come to Wegmans and would not buy the Greek yogurt.
 
 Then, if not on reach, to find out the best flavor to launch, we think about the approaches based on market acceptance and competitive landscape, here are the 2 ways that lead us to the final recommendations(our analytics results):
