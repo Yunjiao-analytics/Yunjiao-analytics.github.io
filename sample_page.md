@@ -46,7 +46,7 @@ Key metrics include market share and profitablity
 
 
 ### 3. R code 
-[describe how we approach)]:  (/Yogurt-Project-Team8.html)
+[describe how we approach](/Yogurt-Project-Team8.html)
 
 
 ### 4. PowerPoint
