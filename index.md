@@ -3,7 +3,7 @@
 ---
 
 ### [Analytics Design and Application：New Flavor to Launch](/sample_page)
-##Key word:* Market Share*  *Consumer Preference*  *Conjoint Analysis*  *TURF*##
+** Key word: *Market Share*  *Consumer Preference*  *Conjoint Analysis*  *TURF* **
 <img src="images/Screen Shot 2020-02-15 at 02.22.00.png?raw=true"/>
 
 ---
