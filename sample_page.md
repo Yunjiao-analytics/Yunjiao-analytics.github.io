@@ -1,20 +1,20 @@
 ## Analytics Design to Recommend Flavors to Launch / Shell Out for Greek Yogurt Trend, Group Project
 
-**Project description:** In this case, we conducted analytics to provide input or recommendations to the decision of which flavors to launch next for Wegmans private label Greek yogurt. Assume for this analysis that the private label recently launched six flavors--Blueberry, Honey, Peach, Plain, Strawberry, and Vanilla. We will be focusing on providing analytics to help determine what the next flavors to launch should be. We now having access to the data from a survey that captures information about 200 consumers’ flavor preferences, historical sales data and demographic infomation of the consumers who belong to Wegmans membership card system.
+**PROJECT DISCRIPTION:** In this case, we conducted analytics to provide input or recommendations to the decision of which flavors to launch next for Wegmans private label Greek yogurt. Assume for this analysis that the private label recently launched six flavors--Blueberry, Honey, Peach, Plain, Strawberry, and Vanilla. We will be focusing on providing analytics to help determine what the next flavors to launch should be. We now having access to the data from a survey that captures information about 200 consumers’ flavor preferences, historical sales data and demographic infomation of the consumers who belong to Wegmans membership card system.
 <img src="images/greek-style-yogurt-difference-1140x563.jpg?raw=true"/>
 
 ### 1. Understanding & Cleaning Data
 
 After extracting and merging data using SQL, two issues were found that needed to be settled before we begin digging deep into the survey data.
 
-```javascript       
- #1#  Representativeness of Sample
-```      
+      
+> 1.Representativeness of Sample
+    
 “The survey was only sent to individuals that had previously purchased Greek Yogurt and were screened during the survey based on a question about purchase of Greek Yogurt. Thus, the sample is not a general sample of Wegmans customers, but instead a sample of current buyers of Greek Yogurt. “ Although this is the most relevant population for this survey, we still need to check whether the survey represents the overall population on gender, income, family size, preference for yogurt and so on, which would influence all the analysis in the following. 
 
-```
- #2#  Quality of Response
-```
+
+> 2. Quality of Response
+
 We re-examined the survey data and we deleted the 1.2.3.
 1.:hourglass:Respondents who took too long to finish the data (above average response time
 2.:writing_hand:Respondents answered the survey not in the time we sent out the survey(some profiles may be from the pretest)
