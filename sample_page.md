@@ -31,11 +31,11 @@ Decide which flavors to launch next, include current flavors (Black Cherry, Blue
 The purpose of this analysis is to understand category behaviors in the Greek Yogurt subcategory. This subcategory at the time of this survey was growing dramatically. Understanding different segments, usage situations, attribute importance, and brand perceptions is critical to determining the best approach to merchandising this growing category.	
 
 
-> 3. Analytics Tool
+> 3. Analytics Tools
 
-Descriptive analysis to identify the sales of yogurt in seperate categories; 
-conjoint analysis with discrete choice model to simulate market scenarios; 
-predictive analysis using TURF to predict the best flavor to gain market share
+* Descriptive analysis to identify the sales of yogurt in seperate categories; 
+* Conjoint analysis with discrete choice model to simulate market scenarios; 
+* Predictive analysis using TURF to predict the best flavor to gain market share
 
 > 4. Analytics Outcome 
 
