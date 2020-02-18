@@ -45,11 +45,9 @@ predictive analysis using TURF to predict the best flavor to gain market share
 Key metrics include market share and profitablity
 
 
-### 3. R code (describe how we approach) 
+### 3. R code 
+[describe how we approach)]:  (/Yogurt-Project-Team8.html)
 
-```
-<em>(/Yogurt-Project-Team8.html)</em>
-```
 
 ### 4. PowerPoint
 This is not a great PowerPoint to show our whole approach, because in this case we were asked to limited the PowerPoint in 5 pages to illustrate the ideas(exclude the name page & the last page of appendix). We skipped some part of our analysis and only retained the most relevant part of the whole analyzing process. Our final recommendations are 'raspberry' and 'strawberry'.  Here-->[Link for Detail](/pptyogurt.pdf)
