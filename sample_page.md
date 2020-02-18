@@ -16,11 +16,10 @@ After extracting and merging data using SQL, two issues were found that needed t
  #2#  Quality of Response
 ```
 We re-examined the survey data and we deleted the 1.2.3.
-1.respondents who took too long to finish the data (above average response time
-2.respondents answered the survey not in the time we sent out the survey(some profiles may be from the pretest
-3.respondents who have not finished the response(incomplete answers showing NA in the database)
+1.:hourglass:Respondents who took too long to finish the data (above average response time
+2.:writing_hand:Respondents answered the survey not in the time we sent out the survey(some profiles may be from the pretest)
+3.:wastebasket:Respondents who have not finished the response(incomplete answers showing NA in the database)
 
-<img src="images/yogurtimage2.jpg?raw=true"/>
 ### 2. Refine the Measurement Goal
 
 ```
@@ -51,7 +50,9 @@ Key metrics include market share and profitablity
 
 
 ### 4. PowerPoint
-This is not a great PowerPoint to show our whole approach, because in this case we were asked to limited the PowerPoint in 5 pages to illustrate the ideas(exclude the name page & the last page of appendix). We skipped some part of our analysis and only retained the most relevant part of the whole analyzing process. Our final recommendations are 'raspberry' and 'strawberry'.  Here-->[Link for Detail](/pptyogurt.pdf)
+This is a PowerPoint to show our whole approach and the final results to the VP of the pricate label, we were asked to limited the PowerPoint in 5 pages to illustrate the ideas(exclude the name page & the last page of appendix). We skipped some part of our analysis and only retained the most relevant part of the whole analyzing process. 
+
+Our final recommendations are 'raspberry' and 'strawberry'.  Here-->[Link for Detail](/pptyogurt.pdf)
 <img src="images/Screen Shot 2020-02-15 at 02.22.00.png?raw=true"/>
 
 ### 5. Case Take-away
@@ -66,5 +67,5 @@ Things to considered: Which flavor ranks the top in the regular yogurt category 
 
 B: Try to influence switchers / Interest from direct Greek yogurt competitors
 Things to considered: Which flavor ranks the top in the Greek yogurt category that we haven't introduce in our private brand? Who are our competitor? How many brand already launch the flavor? 
-
+<img src="images/yogurtimage2.jpg?raw=true"/>
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
