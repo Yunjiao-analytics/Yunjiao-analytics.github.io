@@ -54,7 +54,7 @@ Our final recommendations are 'raspberry' and 'strawberry'.  Here-->[Click here 
 
 ### 5. Case Take-away
 
-Our survey limited us because among the existing flavors, we already reached 98% of the population even when only considering Regular Buyers & Not Occasional buyers. This is a common problem that happens when retailors want to do the survey about a new product in its already reached customers before the new product being produced. In this case, the customers who buy the yogurt in Wegmans would only have the buy-action if they like the flavors, if not, they would not come to Wegmans and would not buy the Greek yogurt.
+Our survey limited us because among the existing flavors, we already reached 98% of the population even when only considering "Regular Buyers" & "Not Occasional buyers". This problem sometimes happens when retailors want to do the survey about a new product in its already reached customers before the new product being produced. In this case, the customers who buy the yogurt in Wegmans would only have the buy-action if they like the flavors, if not, they would not come to Wegmans and would not buy the Greek yogurt.
 
 Then, if not on reach, to find out the best flavor to launch, we think about the approaches based on market acceptance and competitive landscape, here are the 2 ways that lead us to the final recommendations(our analytics results):
 
