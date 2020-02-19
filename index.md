@@ -7,7 +7,7 @@
 <img src="images/Screen Shot 2020-02-15 at 02.22.00.png?raw=true"/>
 
 ---
-### [Spotify Podcasters Case Competition](pdf/SMA.pdf)
+### [Spotify Podcasters Case Competition](/pdf/SMA.pdf)
 *KEY WORDS: Industry Analysis; Targeting Accuracy and Measurement; Marketing Strategy*
 <img src="images/spotifylogo.png?raw=true"/> 
 
