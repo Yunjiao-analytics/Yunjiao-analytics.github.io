@@ -3,7 +3,7 @@
 ---
 
 ### [Analytics Design and Application：New Flavor to Launch](/sample_page)
-*KEY WORDS: Market Share; Consumer Preference; Conjoint Analysis; TURF*
+*KEY WORDS: Decision Support; Reach Goal; Best Choice Disaggregate Choice Models; TURF Analysis*
 <img src="images/Screen Shot 2020-02-15 at 02.22.00.png?raw=true"/>
 
 ---
@@ -13,6 +13,7 @@
 
 ---
 ### [Analytics Design and Application：Toy Horse](/Yogurt-Project-Team8.html)
+*KEY WORDS: Conjoint Analysis; Cluster Analysis; Competitive Analysis; Cannibalization; Pricing*
 <img src="images/Toyhorse.png?raw=true"/>
 
 ---
