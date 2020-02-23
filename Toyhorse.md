@@ -46,7 +46,7 @@ Total within sum of square--visual intuition
 
 ### 4. R Code
 
-[Click here to see the code that describes how we approach](/Yogurt-Project-Team8.html)
+[Click here to see the code that describes how we approach](/Case 3 Toy Horse.html)
 
 
 
