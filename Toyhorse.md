@@ -7,6 +7,7 @@
 
 For this purpose, we ran a conjoint analysis based on 200 individuals, these individuals are made up of parents of 2-4 year old kids who planned to purchase a toy horse. And we were in charge of analyzing the data and creating a presentation to give to the management team of EarlyRiders. 	
 
+:disappointed_relieved::disappointed_relieved::disappointed_relieved:
 [Too much? Click the Easy Going PowerPoint Here](/pdf/ToyHorsePPT_Team8.pdf)
 
 
