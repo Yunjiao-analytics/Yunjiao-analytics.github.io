@@ -41,7 +41,7 @@ Decision Criteria:
 3 segments supported by average silhouette
 Total within sum of square--visual intuition
 
-<img src="images/Toyhore3.png?raw=true"/>
+<img src="images/Toyhosre3.png?raw=true"/>
 
 [Click here to see the code that describes how we approach](/Yogurt-Project-Team8.html)
 
