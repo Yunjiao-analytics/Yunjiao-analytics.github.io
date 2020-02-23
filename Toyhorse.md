@@ -51,10 +51,11 @@ Total within sum of square--visual intuition
 
 ### 5. Profit Analysis 
 
-Longterm profit:
--steady product line
--changing with response to competitors
--change proce
--shrink/expand product line
+Considerations for Longterm Profit:
+
+* steady product line
+* change with response to competitors (Game Theory)
+* change price
+* shrink/expand product line
 
 ##Price Match Guarantee##
