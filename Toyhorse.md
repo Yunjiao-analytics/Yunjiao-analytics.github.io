@@ -9,7 +9,7 @@ For this purpose, we ran a conjoint analysis based on 200 individuals, these ind
 
 
 :anguished:Too much? Don't want to read anymore?
-:point_right::point_right::point_right:[Click the Easy Going PowerPoint Here](/pdf/ToyHorsePPT_Team8.pdf)
+[Click the Easy Going PowerPoint Here](/pdf/ToyHorsePPT_Team8.pdf)
 
 
 ### Analytics Design
@@ -56,8 +56,8 @@ Total within sum of square--visual intuition
 Considerations for Longterm Profit:
 
 * steady product line
-* change with response to competitors (Game Theory)
+* change with response to competitors [Here to know -> Game Theory](https://www.youtube.com/watch?v=YueJukoFBMU)
 * change price
 * shrink/expand product line
 
-##Price Match Guarantee##
+Why data is so important to pricing? [Here to know-->Amazon does not use Price Match Guarantee](https://www.businessinsider.com/does-amazon-price-match)
