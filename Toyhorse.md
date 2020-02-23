@@ -7,6 +7,7 @@
 
 For this purpose, we ran a conjoint analysis based on 200 individuals, these individuals are made up of parents of 2-4 year old kids who planned to purchase a toy horse. And we were in charge of analyzing the data and creating a presentation to give to the management team of EarlyRiders. 	
 
+[Click here to see the whole PowerPoint](/pdf/ToyHorsePPT_Team8.pdf)
 <img src="images/Toyhorse.png?raw=true"/>
 
 ### Analytics Design
@@ -43,10 +44,12 @@ Total within sum of square--visual intuition
 
 <img src="images/Toyhosre3.png?raw=true"/>
 
+### 4. R Code
+
 [Click here to see the code that describes how we approach](/Yogurt-Project-Team8.html)
 
 
-### 4. PowerPoint
+
 
 <img src="images/Screen Shot 2020-02-15 at 02.22.00.png?raw=true"/>
 
