@@ -7,7 +7,7 @@
 
 For this purpose, we ran a conjoint analysis based on 200 individuals, these individuals are made up of parents of 2-4 year old kids who planned to purchase a toy horse. And we were in charge of analyzing the data and creating a presentation to give to the management team of EarlyRiders. 	
 
-<img src="images/greek-style-yogurt-difference-1140x563.jpg?raw=true"/>
+<img src="images/Toyhorse.png?raw=true"/>
 
 ### Analytics Design
 
@@ -29,22 +29,19 @@ Decision Criteria:
 
 >  summary (lm(ratings~price*age+size*age+motion*age+style*age, data=prioridf))   
 
-Decide which flavors to launch next, include current flavors (Black Cherry, Blueberry, Honey, Lemon, Mango, Peach, Plain, Raspberry, Strawberry, and Vanilla) and new flavors (Almond, Banana, Caramel, Chai, Chocolate, Cinnamon, Coconut, Key Lime Pie, Maple, Pineapple, Pomegranate, Strawberry Banana, and Vanilla Banana)  
+<img src="images/Toyhorse1.png?raw=true"/> 
 
 ### Priori Segment by “Gender”
 
 >  summary (lm(ratings~price*gender+size*gender+motion*gender+style*gender,data=prioridf))
-
-* Descriptive analysis to identify the sales of yogurt in seperate categories; 
-* Conjoint analysis with discrete choice model to simulate market scenarios; 
-* Predictive analysis using TURF to predict the best flavor to gain market share
-
+<img src="images/Toyhorse2.png?raw=true"/>
 
 ### Post Hoc: Cluster Modeling
 
 3 segments supported by average silhouette
 Total within sum of square--visual intuition
 
+<img src="images/Toyhore3.png?raw=true"/>
 
 [Click here to see the code that describes how we approach](/Yogurt-Project-Team8.html)
 
