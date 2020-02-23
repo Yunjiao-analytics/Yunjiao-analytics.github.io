@@ -46,7 +46,7 @@ Total within sum of square--visual intuition
 
 ### 4. R Code
 
-[Click here to see the code h](/Case 3 Toy horse.html)
+[Click here to see the code](/Case 3 Toy horse.html)
 
 
 ### 5. Profit Analysis 
