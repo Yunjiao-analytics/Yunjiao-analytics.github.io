@@ -12,7 +12,7 @@
 <img src="images/spotifylogo.png?raw=true"/> 
 
 ---
-### [Analytics Design and Application：Toy Horse](/Toyhorse)
+### [Analytics Design and Application：Toy Horse](/Toyhorse.md)
 *KEY WORDS: Conjoint Analysis; Cluster Analysis; Competitive Analysis; Cannibalization; Pricing*
 <img src="images/Toyhorse.png?raw=true"/>
 
