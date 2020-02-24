@@ -4,7 +4,7 @@
 
 ### [Analytics Design and Application：New Flavor to Launch](/sample_page)
 *KEY WORDS: Decision Support; Reach Goal; Best Choice Disaggregate Choice Models; TURF Analysis*
-<img src="images/Screen Shot 2020-02-15 at 02.22.00.png?raw=true"/>
+<img src="images/greek-style-yogurt-difference-1140x563.jpg?raw=true"/>
 
 ---
 ### [Spotify Podcasters Case Competition](/SMA )
@@ -15,6 +15,11 @@
 ### [Analytics Design and Application：Toy Horse](/Toyhorse.md)
 *KEY WORDS: Conjoint Analysis; Cluster Analysis; Competitive Analysis; Cannibalization; Pricing*
 <img src="images/Toyhorse.png?raw=true"/>
+
+---
+### [Study on Beauty Premium](/PDF/BeautyPremium.md)
+
+<img src="images/BeautyPremium.png?raw=true"/>
 
 ---
 
