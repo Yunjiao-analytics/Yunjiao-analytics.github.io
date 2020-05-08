@@ -17,7 +17,7 @@
 <img src="images/Toyhorse.png?raw=true"/>
 
 ---
-### [Experiment on the Beauty Premium Effect](/PDF/BeautyPremium.pdf)
+### [Experiment on the Beauty Premium Effect](/pdf/BeautyPremium.pdf)
 
 <img src="images/BeautyPremium.png?raw=true"/>
 
